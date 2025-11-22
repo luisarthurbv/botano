@@ -1,0 +1,5 @@
+# Ignore contents of output directory but keep the folder via .gitkeep
+/output/*
+!/output/.gitkeep
+node_modules
+dist
